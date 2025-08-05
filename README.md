@@ -1,8 +1,5 @@
 Advanced Virus Simulation Toolkit (Educational)
-https://via.placeholder.com/800x400?text=Virus+Simulation+Demo
-Contoh tampilan efek simulasi (gambar ilustratif)
 
-📌
 Tujuan Proyek
 
 Fitur Simulasi
@@ -27,7 +24,7 @@ Kontribusi
 
 Lisensi
 
-🎯
+
 Proyek ini merupakan simulasi virus komputer edukasional yang dirancang untuk:
 
 Mendemonstrasikan teknik malware modern secara aman
@@ -42,17 +39,17 @@ Mengajarkan mitigasi ancaman secara praktis
 
 Peringatan Penting:
 
-❗️
 
-✨
-💻
+
+
+
 Fitur	Deskripsi	Durasi
 Screen Rotation	Memutar orientasi layar 180°	5 detik
 Color Inversion	Membalikkan warna layar	3 detik
 Screen Shake	Menggoyangkan semua jendela	1 detik
 Wallpaper Change	Mengganti wallpaper sementara	Sampai stop
 Random Beeps	Suara sistem acak	100-500ms
-🕵
+
 Fitur	Deskripsi	Frekuensi
 Process Monitoring	Restart browser jika ditutup	Setiap 10-15 detik
 Browser Redirection	Membuka situs edukasi/prank	Acak
